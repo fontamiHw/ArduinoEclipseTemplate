@@ -1,0 +1,1667 @@
+Archive member included because of file (symbol)
+
+E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(HardwareSerial.o)
+                              ./src/HW/SerialArduino.o (HardwareSerial::begin(long))
+E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o)
+                              E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(HardwareSerial.o) (Print::write(char const*))
+E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WMath.o)
+                              ./src/HW/Arduino.o (map(long, long, long, long, long))
+E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+                              E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o) (String::operator[](unsigned int) const)
+E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(wiring.o)
+                              ./src/HW/Arduino.o (delay)
+E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(wiring_analog.o)
+                              ./src/HW/Arduino.o (analogRead)
+E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(wiring_digital.o)
+                              ./src/HW/Arduino.o (pinMode)
+E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(pins_arduino.o)
+                              E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(wiring_digital.o) (port_to_mode_PGM)
+e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_mulsi3.o)
+                              E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WMath.o) (__mulsi3)
+e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_udivmodsi4.o)
+                              E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(HardwareSerial.o) (__udivmodsi4)
+e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_divmodsi4.o)
+                              E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WMath.o) (__divmodsi4)
+e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_exit.o)
+                              e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o (exit)
+e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_clear_bss.o)
+                              ./src/net/WifiComunication.o (__do_clear_bss)
+e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_ctors.o)
+                              E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(HardwareSerial.o) (__do_global_ctors)
+e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_fixunssfsi.o)
+                              E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o) (__fixunssfsi)
+e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_addsub_sf.o)
+                              E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o) (__subsf3)
+e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_mul_sf.o)
+                              E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o) (__mulsf3)
+e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_div_sf.o)
+                              E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o) (__divsf3)
+e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_ge_sf.o)
+                              e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_fixunssfsi.o) (__gesf2)
+e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_lt_sf.o)
+                              E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o) (__ltsf2)
+e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_si_to_sf.o)
+                              E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o) (__floatsisf)
+e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_sf_to_si.o)
+                              E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o) (__fixsfsi)
+e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_thenan_sf.o)
+                              e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_addsub_sf.o) (__thenan_sf)
+e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_usi_to_sf.o)
+                              E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o) (__floatunsisf)
+e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_prologue.o)
+                              e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_addsub_sf.o) (__prologue_saves__)
+e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_epilogue.o)
+                              e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_addsub_sf.o) (__epilogue_restores__)
+e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_tablejump.o)
+                              e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_ctors.o) (__tablejump__)
+e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_clzsi2.o)
+                              e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_si_to_sf.o) (__clzsi2)
+e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_pack_sf.o)
+                              e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_addsub_sf.o) (__pack_f)
+e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_unpack_sf.o)
+                              e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_addsub_sf.o) (__unpack_f)
+e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_fpcmp_parts_sf.o)
+                              e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_ge_sf.o) (__fpcmp_parts_f)
+e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_clz.o)
+                              e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_clzsi2.o) (__clz_tab)
+e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(malloc.o)
+                              ./src/memory.o (malloc)
+e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(random.o)
+                              E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WMath.o) (random)
+e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(realloc.o)
+                              E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o) (realloc)
+e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(atol.o)
+                              E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o) (atol)
+e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(isspace.o)
+                              E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o) (isspace)
+e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(tolower.o)
+                              E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o) (tolower)
+e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(toupper.o)
+                              E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o) (toupper)
+e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(memcpy.o)
+                              e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(realloc.o) (memcpy)
+e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(strcat.o)
+                              E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o) (strcat)
+e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(strchr.o)
+                              E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o) (strchr)
+e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(strcmp.o)
+                              E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o) (strcmp)
+e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(strcpy.o)
+                              E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o) (strcpy)
+e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(strncmp.o)
+                              E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o) (strncmp)
+e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(strncpy.o)
+                              E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o) (strncpy)
+e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(strrchr.o)
+                              E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o) (strrchr)
+e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(strstr.o)
+                              E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o) (strstr)
+e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(itoa.o)
+                              E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o) (itoa)
+e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(ltoa.o)
+                              E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o) (ltoa)
+e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(mulsi10.o)
+                              e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(atol.o) (__mulsi_const_10)
+e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(ultoa.o)
+                              E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o) (ultoa)
+e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(cty_isfalse.o)
+                              e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(isspace.o) (__ctype_isfalse)
+e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(strrev.o)
+                              e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(itoa.o) (strrev)
+e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_udivmodhi4.o)
+                              e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(itoa.o) (__udivmodhi4)
+
+Allocating common symbols
+Common symbol       size              file
+
+__brkval            0x2               e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(malloc.o)
+__flp               0x2               e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(malloc.o)
+
+Discarded input sections
+
+ .data          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+ .bss           0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+ .text          0x00000000        0x0 ./src/net/WifiComunication.o
+ .data          0x00000000        0x0 ./src/net/WifiComunication.o
+ .bss           0x00000000        0x0 ./src/net/WifiComunication.o
+ .text._ZN16WifiComunicationD2Ev
+                0x00000000        0x0 ./src/net/WifiComunication.o
+ .text._ZN16WifiComunicationC2Ei
+                0x00000000        0x0 ./src/net/WifiComunication.o
+ .text          0x00000000        0x0 ./src/HW/Arduino.o
+ .data          0x00000000        0x0 ./src/HW/Arduino.o
+ .bss           0x00000000        0x0 ./src/HW/Arduino.o
+ .text._ZN7ArduinoC2Ev
+                0x00000000        0x0 ./src/HW/Arduino.o
+ .text._ZN7ArduinoC1Ev
+                0x00000000        0x0 ./src/HW/Arduino.o
+ .text._ZN7ArduinoD2Ev
+                0x00000000        0x0 ./src/HW/Arduino.o
+ .text._ZN7ArduinoD1Ev
+                0x00000000        0x0 ./src/HW/Arduino.o
+ .text._ZN7Arduino5rangeElll
+                0x00000000        0x0 ./src/HW/Arduino.o
+ .text._ZN7Arduino11getADCvalueEi
+                0x00000000        0x0 ./src/HW/Arduino.o
+ .text._ZN7Arduino14analogPinWriteEii
+                0x00000000        0x0 ./src/HW/Arduino.o
+ .text._ZN7Arduino5sleepEm
+                0x00000000        0x0 ./src/HW/Arduino.o
+ .text._ZN7Arduino5limitElllll
+                0x00000000        0x0 ./src/HW/Arduino.o
+ .text._ZN7Arduino10setupPinInEi
+                0x00000000        0x0 ./src/HW/Arduino.o
+ .text._ZN7Arduino11setupPinOutEi
+                0x00000000        0x0 ./src/HW/Arduino.o
+ .text._ZN7ArduinoD0Ev
+                0x00000000        0x0 ./src/HW/Arduino.o
+ .rodata._ZTV7Arduino
+                0x00000000        0x0 ./src/HW/Arduino.o
+ .text          0x00000000        0x0 ./src/HW/SerialArduino.o
+ .data          0x00000000        0x0 ./src/HW/SerialArduino.o
+ .bss           0x00000000        0x0 ./src/HW/SerialArduino.o
+ .text._ZN13SerialArduinoD2Ev
+                0x00000000        0x0 ./src/HW/SerialArduino.o
+ .text._ZN13SerialArduino10dbgPrintlnEi
+                0x00000000        0x0 ./src/HW/SerialArduino.o
+ .text._ZN13SerialArduino8dbgPrintEi
+                0x00000000        0x0 ./src/HW/SerialArduino.o
+ .text._ZN13SerialArduino10dbgPrintlnEPc
+                0x00000000        0x0 ./src/HW/SerialArduino.o
+ .text._ZN13SerialArduino8dbgPrintEPc
+                0x00000000        0x0 ./src/HW/SerialArduino.o
+ .text._ZN13SerialArduinoC2Ei
+                0x00000000        0x0 ./src/HW/SerialArduino.o
+ .text._ZN13SerialArduinoC1Ev
+                0x00000000        0x0 ./src/HW/SerialArduino.o
+ .text._ZN13SerialArduinoC2Ev
+                0x00000000        0x0 ./src/HW/SerialArduino.o
+ .text          0x00000000        0x0 ./src/DebugPrint.o
+ .data          0x00000000        0x0 ./src/DebugPrint.o
+ .bss           0x00000000        0x0 ./src/DebugPrint.o
+ .text._ZN10DebugPrint8dbgPrintEj
+                0x00000000        0x0 ./src/DebugPrint.o
+ .text._ZN10DebugPrint8dbgPrintEi
+                0x00000000        0x0 ./src/DebugPrint.o
+ .text._ZN10DebugPrint10dbgPrintlnEj
+                0x00000000        0x0 ./src/DebugPrint.o
+ .text._ZN10DebugPrint10dbgPrintlnEi
+                0x00000000        0x0 ./src/DebugPrint.o
+ .text._ZN10DebugPrint5readyEv
+                0x00000000        0x0 ./src/DebugPrint.o
+ .text._ZN10DebugPrint10dbgPrintlnEPc
+                0x00000000        0x0 ./src/DebugPrint.o
+ .text._ZN10DebugPrint8dbgPrintEPc
+                0x00000000        0x0 ./src/DebugPrint.o
+ .text._ZN10DebugPrintD2Ev
+                0x00000000        0x0 ./src/DebugPrint.o
+ .text._ZN10DebugPrintC2Ei
+                0x00000000        0x0 ./src/DebugPrint.o
+ .text          0x00000000        0x0 ./src/main.o
+ .data          0x00000000        0x0 ./src/main.o
+ .bss           0x00000000        0x0 ./src/main.o
+ .text          0x00000000        0x0 ./src/memory.o
+ .data          0x00000000        0x0 ./src/memory.o
+ .bss           0x00000000        0x0 ./src/memory.o
+ .text._Z19__cxa_guard_acquirePx
+                0x00000000        0x0 ./src/memory.o
+ .text._Z19__cxa_guard_releasePx
+                0x00000000        0x0 ./src/memory.o
+ .text._Z17__cxa_guard_abortPx
+                0x00000000        0x0 ./src/memory.o
+ .text._ZdaPv   0x00000000        0x0 ./src/memory.o
+ .text._Znaj    0x00000000        0x0 ./src/memory.o
+ .text          0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(HardwareSerial.o)
+ .data          0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(HardwareSerial.o)
+ .bss           0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(HardwareSerial.o)
+ .text._ZN14HardwareSerialC2EP11ring_bufferPVhS3_S3_S3_S3_hhhhh
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(HardwareSerial.o)
+ .text._ZN14HardwareSerialC1EP11ring_bufferPVhS3_S3_S3_S3_hhhhh
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(HardwareSerial.o)
+ .text._ZN14HardwareSerial3endEv
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(HardwareSerial.o)
+ .rodata._ZTV6Stream
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(HardwareSerial.o)
+ .text          0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o)
+ .data          0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o)
+ .bss           0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o)
+ .text._ZN5Print5printEPKc
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o)
+ .text._ZN5Print5printERK6String
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o)
+ .text._ZN5Print11printNumberEmh
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o)
+ .text._ZN5Print5printEmi
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o)
+ .text._ZN5Print5printEji
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o)
+ .text._ZN5Print5printEhi
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o)
+ .text._ZN5Print5printEli
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o)
+ .text._ZN5Print5printEii
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o)
+ .text._ZN5Print5printEci
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o)
+ .text._ZN5Print7printlnEv
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o)
+ .text._ZN5Print7printlnEmi
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o)
+ .text._ZN5Print7printlnEji
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o)
+ .text._ZN5Print7printlnEhi
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o)
+ .text._ZN5Print7printlnEPKc
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o)
+ .text._ZN5Print7printlnERK6String
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o)
+ .text._ZN5Print7printlnEli
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o)
+ .text._ZN5Print7printlnEii
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o)
+ .text._ZN5Print7printlnEci
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o)
+ .text._ZN5Print10printFloatEdh
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o)
+ .text._ZN5Print5printEdi
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o)
+ .text._ZN5Print7printlnEdi
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o)
+ .rodata._ZTV5Print
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o)
+ .text          0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WMath.o)
+ .data          0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WMath.o)
+ .bss           0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WMath.o)
+ .text._Z3maplllll
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WMath.o)
+ .text._Z8makeWordj
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WMath.o)
+ .text._Z8makeWordhh
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WMath.o)
+ .text._Z6randoml
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WMath.o)
+ .text._Z6randomll
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WMath.o)
+ .text._Z10randomSeedj
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WMath.o)
+ .text          0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+ .data          0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+ .bss           0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+ .text._ZNK6String6charAtEj
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+ .text._ZN6String9setCharAtEjc
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+ .text._ZN6StringixEj
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+ .text._ZNK6StringixEj
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+ .text._ZN6String5toIntEv
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+ .text._ZN6String11toCharArrayEPcj
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+ .text._ZN6String8getBytesEPhj
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+ .text._ZN6StringD1Ev
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+ .text._ZNK6String10startsWithERKS_j
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+ .text._ZNK6String10startsWithERKS_
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+ .text._ZNK6String11lastIndexOfEcj
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+ .text._ZNK6String11lastIndexOfEc
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+ .text._ZNK6String7indexOfERKS_j
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+ .text._ZNK6String7indexOfERKS_
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+ .text._ZNK6String7indexOfEcj
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+ .text._ZNK6String7indexOfEc
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+ .text._ZNK6String6equalsERKS_
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+ .text._ZNK6String8endsWithERKS_
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+ .text._ZNK6StringgeERKS_
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+ .text._ZNK6StringleERKS_
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+ .text._ZNK6StringgtERKS_
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+ .text._ZNK6StringltERKS_
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+ .text._ZNK6StringneERKS_
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+ .text._ZNK6StringeqERKS_
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+ .text._ZNK6String9compareToERKS_
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+ .text._ZN6StringpLERKS_
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+ .text._ZN6String6concatERKS_
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+ .text._ZN6String9getBufferEj
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+ .text._ZN6StringaSERKS_
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+ .text._ZN6StringC1Eh
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+ .text._ZN6StringC2Eh
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+ .text._ZN6StringC1Ec
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+ .text._ZN6StringC2Ec
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+ .text._ZN6StringC1ERKS_
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+ .text._ZN6StringC2ERKS_
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+ .text._ZN6StringC1Emi
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+ .text._ZN6StringC2Emi
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+ .text._ZN6StringC1Eji
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+ .text._ZN6StringC2Eji
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+ .text._ZN6StringC1EPKc
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+ .text._ZNK6String11toUpperCaseEv
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+ .text._ZNK6String11toLowerCaseEv
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+ .text._ZNK6String16equalsIgnoreCaseERKS_
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+ .text._ZNK6String9substringEjj
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+ .text._ZNK6String9substringEj
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+ .text._ZNK6String11lastIndexOfERKS_j
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+ .text._ZNK6String11lastIndexOfERKS_
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+ .text._ZNK6String4trimEv
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+ .text._ZN6String7replaceERKS_S1_
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+ .text._ZN6String7replaceEcc
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+ .text._ZN6StringC2EPKc
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+ .text._ZN6StringC1Eli
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+ .text._ZN6StringC2Eli
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+ .text._ZN6StringC1Eii
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+ .text._ZN6StringC2Eii
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+ .bss._ZZN6StringixEjE19dummy_writable_char
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+ .text          0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(wiring.o)
+ .data          0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(wiring.o)
+ .bss           0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(wiring.o)
+ .text.millis   0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(wiring.o)
+ .text.micros   0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(wiring.o)
+ .text.delayMicroseconds
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(wiring.o)
+ .text          0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(wiring_analog.o)
+ .data          0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(wiring_analog.o)
+ .bss           0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(wiring_analog.o)
+ .text.analogReference
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(wiring_analog.o)
+ .text.analogRead
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(wiring_analog.o)
+ .text.analogWrite
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(wiring_analog.o)
+ .data.analog_reference
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(wiring_analog.o)
+ .text          0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(wiring_digital.o)
+ .data          0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(wiring_digital.o)
+ .bss           0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(wiring_digital.o)
+ .text.digitalRead
+                0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(wiring_digital.o)
+ .text          0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(pins_arduino.o)
+ .data          0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(pins_arduino.o)
+ .bss           0x00000000        0x0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(pins_arduino.o)
+ .text          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_mulsi3.o)
+ .data          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_mulsi3.o)
+ .bss           0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_mulsi3.o)
+ .text.libgcc   0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_mulsi3.o)
+ .text          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_udivmodsi4.o)
+ .data          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_divmodsi4.o)
+ .data          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_divmodsi4.o)
+ .bss           0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_divmodsi4.o)
+ .text.libgcc   0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_divmodsi4.o)
+ .text          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_ctors.o)
+ .data          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_ctors.o)
+ .bss           0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_ctors.o)
+ .text.libgcc   0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_ctors.o)
+ .text          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_fixunssfsi.o)
+ .data          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_fixunssfsi.o)
+ .bss           0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_fixunssfsi.o)
+ .text          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_addsub_sf.o)
+ .data          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_addsub_sf.o)
+ .bss           0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_addsub_sf.o)
+ .text          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_mul_sf.o)
+ .data          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_mul_sf.o)
+ .bss           0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_mul_sf.o)
+ .text          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_div_sf.o)
+ .data          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_div_sf.o)
+ .bss           0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_div_sf.o)
+ .text          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_ge_sf.o)
+ .data          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_ge_sf.o)
+ .bss           0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_ge_sf.o)
+ .text          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_lt_sf.o)
+ .data          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_lt_sf.o)
+ .bss           0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_lt_sf.o)
+ .text          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_si_to_sf.o)
+ .data          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_si_to_sf.o)
+ .bss           0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_si_to_sf.o)
+ .text          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_sf_to_si.o)
+ .data          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_sf_to_si.o)
+ .bss           0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_sf_to_si.o)
+ .text          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_thenan_sf.o)
+ .data          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_thenan_sf.o)
+ .bss           0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_thenan_sf.o)
+ .text          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_usi_to_sf.o)
+ .data          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_usi_to_sf.o)
+ .bss           0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_usi_to_sf.o)
+ .text          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_prologue.o)
+ .data          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_prologue.o)
+ .bss           0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_prologue.o)
+ .text.libgcc   0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_prologue.o)
+ .text          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_epilogue.o)
+ .data          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_epilogue.o)
+ .bss           0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_epilogue.o)
+ .text.libgcc   0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_epilogue.o)
+ .text          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_tablejump.o)
+ .data          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_tablejump.o)
+ .bss           0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_tablejump.o)
+ .text          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_clzsi2.o)
+ .data          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_clzsi2.o)
+ .bss           0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_clzsi2.o)
+ .text          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_pack_sf.o)
+ .data          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_pack_sf.o)
+ .bss           0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_pack_sf.o)
+ .text          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_unpack_sf.o)
+ .data          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_unpack_sf.o)
+ .bss           0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_unpack_sf.o)
+ .text          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_fpcmp_parts_sf.o)
+ .data          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_fpcmp_parts_sf.o)
+ .bss           0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_fpcmp_parts_sf.o)
+ .text          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_clz.o)
+ .data          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_clz.o)
+ .bss           0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_clz.o)
+ .bss           0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(malloc.o)
+ .text          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(random.o)
+ .data          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(random.o)
+ .bss           0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(random.o)
+ .text          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(realloc.o)
+ .data          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(realloc.o)
+ .bss           0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(realloc.o)
+ .text          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(atol.o)
+ .data          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(atol.o)
+ .bss           0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(atol.o)
+ .text          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(isspace.o)
+ .data          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(isspace.o)
+ .bss           0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(isspace.o)
+ .text.ctype    0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(isspace.o)
+ .text          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(tolower.o)
+ .data          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(tolower.o)
+ .bss           0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(tolower.o)
+ .text.ctype    0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(tolower.o)
+ .text          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(toupper.o)
+ .data          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(toupper.o)
+ .bss           0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(toupper.o)
+ .text.ctype    0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(toupper.o)
+ .text          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(memcpy.o)
+ .data          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(memcpy.o)
+ .bss           0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(memcpy.o)
+ .text          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(strcat.o)
+ .data          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(strcat.o)
+ .bss           0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(strcat.o)
+ .text          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(strchr.o)
+ .data          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(strchr.o)
+ .bss           0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(strchr.o)
+ .text          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(strcmp.o)
+ .data          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(strcmp.o)
+ .bss           0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(strcmp.o)
+ .text          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(strcpy.o)
+ .data          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(strcpy.o)
+ .bss           0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(strcpy.o)
+ .text          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(strncmp.o)
+ .data          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(strncmp.o)
+ .bss           0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(strncmp.o)
+ .text          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(strncpy.o)
+ .data          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(strncpy.o)
+ .bss           0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(strncpy.o)
+ .text          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(strrchr.o)
+ .data          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(strrchr.o)
+ .bss           0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(strrchr.o)
+ .text          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(strstr.o)
+ .data          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(strstr.o)
+ .bss           0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(strstr.o)
+ .text          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(itoa.o)
+ .data          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(itoa.o)
+ .bss           0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(itoa.o)
+ .text          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(ltoa.o)
+ .data          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(ltoa.o)
+ .bss           0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(ltoa.o)
+ .text          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(mulsi10.o)
+ .data          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(mulsi10.o)
+ .bss           0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(mulsi10.o)
+ .text          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(ultoa.o)
+ .data          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(ultoa.o)
+ .bss           0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(ultoa.o)
+ .text          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(cty_isfalse.o)
+ .data          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(cty_isfalse.o)
+ .bss           0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(cty_isfalse.o)
+ .text.ctype    0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(cty_isfalse.o)
+ .text          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(strrev.o)
+ .data          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(strrev.o)
+ .bss           0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(strrev.o)
+ .text          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_udivmodhi4.o)
+ .data          0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_udivmodhi4.o)
+ .bss           0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x00000000        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_udivmodhi4.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00100000         xr
+data             0x00800200         0x0000fe00         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800200
+LOAD e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+LOAD ./src/net/WifiComunication.o
+LOAD ./src/HW/Arduino.o
+LOAD ./src/HW/SerialArduino.o
+LOAD ./src/DebugPrint.o
+LOAD ./src/main.o
+LOAD ./src/memory.o
+LOAD E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a
+LOAD e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a
+LOAD e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a
+LOAD e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x1274
+ *(.vectors)
+ .vectors       0x00000000       0xe4 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.progmem*)
+ .progmem.data  0x000000e4      0x120 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(pins_arduino.o)
+                0x000000e4                port_to_mode_PGM
+                0x00000132                digital_pin_to_port_PGM
+                0x00000178                digital_pin_to_bit_mask_PGM
+                0x000000fe                port_to_output_PGM
+                0x00000118                port_to_input_PGM
+                0x000001be                digital_pin_to_timer_PGM
+                0x00000204                . = ALIGN (0x2)
+                0x00000204                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000204        0x0 linker stubs
+ *(.trampolines*)
+                0x00000204                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000204                __ctors_start = .
+ *(.ctors)
+ .ctors         0x00000204        0x2 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(HardwareSerial.o)
+                0x00000206                __ctors_end = .
+                0x00000206                __dtors_start = .
+ *(.dtors)
+                0x00000206                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000206        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+                0x00000206                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000206       0x10 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000216       0x1c e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+                0x00000216                __do_copy_data
+ .init4         0x00000232       0x10 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_clear_bss.o)
+                0x00000232                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ .init6         0x00000242       0x16 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_ctors.o)
+                0x00000242                __do_global_ctors
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000258        0x8 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+ *(.init9)
+ *(.text)
+ .text          0x00000260        0x4 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+                0x00000260                __vector_38
+                0x00000260                __vector_22
+                0x00000260                __vector_28
+                0x00000260                __vector_1
+                0x00000260                __vector_32
+                0x00000260                __vector_34
+                0x00000260                __vector_24
+                0x00000260                __vector_12
+                0x00000260                __vector_55
+                0x00000260                __vector_46
+                0x00000260                __bad_interrupt
+                0x00000260                __vector_6
+                0x00000260                __vector_31
+                0x00000260                __vector_35
+                0x00000260                __vector_39
+                0x00000260                __vector_3
+                0x00000260                __vector_30
+                0x00000260                __vector_45
+                0x00000260                __vector_11
+                0x00000260                __vector_13
+                0x00000260                __vector_17
+                0x00000260                __vector_19
+                0x00000260                __vector_56
+                0x00000260                __vector_7
+                0x00000260                __vector_49
+                0x00000260                __vector_41
+                0x00000260                __vector_43
+                0x00000260                __vector_27
+                0x00000260                __vector_5
+                0x00000260                __vector_33
+                0x00000260                __vector_47
+                0x00000260                __vector_52
+                0x00000260                __vector_37
+                0x00000260                __vector_4
+                0x00000260                __vector_44
+                0x00000260                __vector_9
+                0x00000260                __vector_2
+                0x00000260                __vector_21
+                0x00000260                __vector_15
+                0x00000260                __vector_29
+                0x00000260                __vector_40
+                0x00000260                __vector_8
+                0x00000260                __vector_26
+                0x00000260                __vector_48
+                0x00000260                __vector_14
+                0x00000260                __vector_53
+                0x00000260                __vector_10
+                0x00000260                __vector_50
+                0x00000260                __vector_16
+                0x00000260                __vector_18
+                0x00000260                __vector_20
+                0x00000260                __vector_42
+ .text          0x00000264      0x204 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(malloc.o)
+                0x00000264                malloc
+                0x000003b8                free
+                0x00000468                . = ALIGN (0x2)
+ *(.text.*)
+ .text._ZN16WifiComunication4readEv
+                0x00000468        0x8 ./src/net/WifiComunication.o
+                0x00000468                WifiComunication::read()
+ .text._ZN16WifiComunication5readyEv
+                0x00000470        0x8 ./src/net/WifiComunication.o
+                0x00000470                WifiComunication::ready()
+ .text._ZN16WifiComunicationD1Ev
+                0x00000478       0x12 ./src/net/WifiComunication.o
+                0x00000478                WifiComunication::~WifiComunication()
+ .text._ZN16WifiComunicationD0Ev
+                0x0000048a       0x28 ./src/net/WifiComunication.o
+                0x0000048a                WifiComunication::~WifiComunication()
+ .text._ZN16WifiComunicationC1Ei
+                0x000004b2       0x12 ./src/net/WifiComunication.o
+                0x000004b2                WifiComunication::WifiComunication(int)
+ .text._ZN13SerialArduinoD1Ev
+                0x000004c4        0xc ./src/HW/SerialArduino.o
+                0x000004c4                SerialArduino::~SerialArduino()
+ .text._ZN13SerialArduino4readEv
+                0x000004d0        0xa ./src/HW/SerialArduino.o
+                0x000004d0                SerialArduino::read()
+ .text._ZN13SerialArduino5readyEv
+                0x000004da       0x1a ./src/HW/SerialArduino.o
+                0x000004da                SerialArduino::ready()
+ .text._ZN13SerialArduinoD0Ev
+                0x000004f4       0x12 ./src/HW/SerialArduino.o
+                0x000004f4                SerialArduino::~SerialArduino()
+ .text._ZN13SerialArduino4initEi
+                0x00000506       0x1e ./src/HW/SerialArduino.o
+                0x00000506                SerialArduino::init(int)
+ .text._ZN13SerialArduinoC1Ei
+                0x00000524       0x12 ./src/HW/SerialArduino.o
+                0x00000524                SerialArduino::SerialArduino(int)
+ .text._ZN10DebugPrintD1Ev
+                0x00000536       0x14 ./src/DebugPrint.o
+                0x00000536                DebugPrint::~DebugPrint()
+ .text._ZN10DebugPrintD0Ev
+                0x0000054a       0x24 ./src/DebugPrint.o
+                0x0000054a                DebugPrint::~DebugPrint()
+ .text._ZN10DebugPrintC1Ei
+                0x0000056e       0x24 ./src/DebugPrint.o
+                0x0000056e                DebugPrint::DebugPrint(int)
+ .text.setup    0x00000592      0x122 ./src/main.o
+                0x00000592                setup
+ .text._Z10displayNumhi
+                0x000006b4      0x10a ./src/main.o
+                0x000006b4                displayNum(unsigned char, int)
+ .text._Z9createMsgv
+                0x000007be       0xd6 ./src/main.o
+                0x000007be                createMsg()
+ .text.loop     0x00000894       0x8c ./src/main.o
+                0x00000894                loop
+ .text.main     0x00000920        0xe ./src/main.o
+                0x00000920                main
+ .text._ZdlPv   0x0000092e        0x6 ./src/memory.o
+                0x0000092e                operator delete(void*)
+ .text._Znwj    0x00000934        0x6 ./src/memory.o
+                0x00000934                operator new(unsigned int)
+ .text.__vector_25
+                0x0000093a       0x6a E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(HardwareSerial.o)
+                0x0000093a                __vector_25
+ .text.__vector_36
+                0x000009a4       0x6a E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(HardwareSerial.o)
+                0x000009a4                __vector_36
+ .text.__vector_51
+                0x00000a0e       0x6a E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(HardwareSerial.o)
+                0x00000a0e                __vector_51
+ .text.__vector_54
+                0x00000a78       0x6a E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(HardwareSerial.o)
+                0x00000a78                __vector_54
+ .text._ZN14HardwareSerial5beginEl
+                0x00000ae2       0xb2 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(HardwareSerial.o)
+                0x00000ae2                HardwareSerial::begin(long)
+ .text._ZN14HardwareSerial9availableEv
+                0x00000b94       0x22 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(HardwareSerial.o)
+                0x00000b94                HardwareSerial::available()
+ .text._ZN14HardwareSerial4peekEv
+                0x00000bb6       0x34 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(HardwareSerial.o)
+                0x00000bb6                HardwareSerial::peek()
+ .text._ZN14HardwareSerial4readEv
+                0x00000bea       0x48 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(HardwareSerial.o)
+                0x00000bea                HardwareSerial::read()
+ .text._ZN14HardwareSerial5flushEv
+                0x00000c32       0x18 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(HardwareSerial.o)
+                0x00000c32                HardwareSerial::flush()
+ .text._ZN14HardwareSerial5writeEh
+                0x00000c4a       0x26 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(HardwareSerial.o)
+                0x00000c4a                HardwareSerial::write(unsigned char)
+ .text._GLOBAL__I_rx_buffer
+                0x00000c70      0x1a0 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(HardwareSerial.o)
+ .text._ZN5Print5writeEPKc
+                0x00000e10       0x30 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o)
+                0x00000e10                Print::write(char const*)
+ .text._ZN5Print5writeEPKhj
+                0x00000e40       0x3e E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o)
+                0x00000e40                Print::write(unsigned char const*, unsigned int)
+ .text.__vector_23
+                0x00000e7e       0x90 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(wiring.o)
+                0x00000e7e                __vector_23
+ .text.delay    0x00000f0e       0xb2 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(wiring.o)
+                0x00000f0e                delay
+ .text.init     0x00000fc0       0xc4 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(wiring.o)
+                0x00000fc0                init
+ .text.pinMode  0x00001084       0x4c E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(wiring_digital.o)
+                0x00001084                pinMode
+ .text.turnOffPWM
+                0x000010d0       0xe6 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(wiring_digital.o)
+ .text.digitalWrite
+                0x000011b6       0x6a E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(wiring_digital.o)
+                0x000011b6                digitalWrite
+ .text.libgcc   0x00001220       0x44 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_udivmodsi4.o)
+                0x00001220                __udivmodsi4
+ .text.libgcc   0x00001264        0xc e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_tablejump.o)
+                0x00001268                __tablejump__
+                0x00001264                __tablejump2__
+                0x00001270                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00001270        0x0 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_exit.o)
+                0x00001270                exit
+                0x00001270                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00001270        0x4 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00001274                _etext = .
+
+.data           0x00800200      0x108 load address 0x00001274
+                0x00800200                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800200        0x6 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(malloc.o)
+                0x00800202                __malloc_heap_start
+                0x00800204                __malloc_heap_end
+                0x00800200                __malloc_margin
+ *(.data*)
+ .data.data_ascii
+                0x00800206       0xd8 ./src/main.o
+                0x00800206                data_ascii
+ *(.rodata)
+ *(.rodata*)
+ .rodata._ZTV16WifiComunication
+                0x008002de        0x8 ./src/net/WifiComunication.o
+                0x008002de                vtable for WifiComunication
+ .rodata._ZTV13SerialArduino
+                0x008002e6        0x8 ./src/HW/SerialArduino.o
+                0x008002e6                vtable for SerialArduino
+ .rodata._ZTV10DebugPrint
+                0x008002ee        0x8 ./src/DebugPrint.o
+                0x008002ee                vtable for DebugPrint
+ .rodata._ZTV14HardwareSerial
+                0x008002f6       0x12 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(HardwareSerial.o)
+                0x008002f6                vtable for HardwareSerial
+ *(.gnu.linkonce.d*)
+                0x00800308                . = ALIGN (0x2)
+                0x00800308                _edata = .
+                0x00800308                PROVIDE (__data_end, .)
+
+.bss            0x00800308      0x2d3
+                0x00800308                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.msgLen    0x00800308        0x2 ./src/main.o
+                0x00800308                msgLen
+ .bss.outStr    0x0080030a       0x64 ./src/main.o
+                0x0080030a                outStr
+ .bss.out       0x0080036e        0x2 ./src/main.o
+                0x0080036e                out
+ .bss.in        0x00800370        0x2 ./src/main.o
+                0x00800370                in
+ .bss.rx_buffer
+                0x00800372       0x84 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(HardwareSerial.o)
+                0x00800372                rx_buffer
+ .bss.rx_buffer1
+                0x008003f6       0x84 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(HardwareSerial.o)
+                0x008003f6                rx_buffer1
+ .bss.rx_buffer2
+                0x0080047a       0x84 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(HardwareSerial.o)
+                0x0080047a                rx_buffer2
+ .bss.rx_buffer3
+                0x008004fe       0x84 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(HardwareSerial.o)
+                0x008004fe                rx_buffer3
+ .bss.Serial    0x00800582       0x13 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(HardwareSerial.o)
+                0x00800582                Serial
+ .bss.Serial1   0x00800595       0x13 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(HardwareSerial.o)
+                0x00800595                Serial1
+ .bss.Serial2   0x008005a8       0x13 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(HardwareSerial.o)
+                0x008005a8                Serial2
+ .bss.Serial3   0x008005bb       0x13 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(HardwareSerial.o)
+                0x008005bb                Serial3
+ .bss.timer0_overflow_count
+                0x008005ce        0x4 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(wiring.o)
+                0x008005ce                timer0_overflow_count
+ .bss.timer0_millis
+                0x008005d2        0x4 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(wiring.o)
+                0x008005d2                timer0_millis
+ .bss.timer0_fract
+                0x008005d6        0x1 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(wiring.o)
+ *(COMMON)
+ COMMON         0x008005d7        0x4 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(malloc.o)
+                0x008005d7                __brkval
+                0x008005d9                __flp
+                0x008005db                PROVIDE (__bss_end, .)
+                0x00001274                __data_load_start = LOADADDR (.data)
+                0x0000137c                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x008005db        0x0
+                0x008005db                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x008005db                PROVIDE (__noinit_end, .)
+                0x008005db                _end = .
+                0x008005db                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info
+ *(.debug_info)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev
+ *(.debug_abbrev)
+
+.debug_line
+ *(.debug_line)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str
+ *(.debug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(8X8Matrix.elf elf32-avr)
+LOAD linker stubs
+
+Cross Reference Table
+
+Symbol                                            File
+Arduino::Arduino()                                ./src/HW/Arduino.o
+Arduino::Arduino()                                ./src/HW/Arduino.o
+Arduino::analogPinWrite(int, int)                 ./src/HW/Arduino.o
+Arduino::getADCvalue(int)                         ./src/HW/Arduino.o
+Arduino::limit(long, long, long, long, long)      ./src/HW/Arduino.o
+Arduino::range(long, long, long)                  ./src/HW/Arduino.o
+Arduino::setupPinIn(int)                          ./src/HW/Arduino.o
+Arduino::setupPinOut(int)                         ./src/HW/Arduino.o
+Arduino::sleep(unsigned long)                     ./src/HW/Arduino.o
+Arduino::~Arduino()                               ./src/HW/Arduino.o
+Arduino::~Arduino()                               ./src/HW/Arduino.o
+Arduino::~Arduino()                               ./src/HW/Arduino.o
+DebugPrint::DebugPrint(int)                       ./src/DebugPrint.o
+DebugPrint::DebugPrint(int)                       ./src/DebugPrint.o
+                                                  ./src/main.o
+DebugPrint::dbgPrint(char*)                       ./src/DebugPrint.o
+DebugPrint::dbgPrint(int)                         ./src/DebugPrint.o
+DebugPrint::dbgPrint(unsigned int)                ./src/DebugPrint.o
+DebugPrint::dbgPrintln(char*)                     ./src/DebugPrint.o
+DebugPrint::dbgPrintln(int)                       ./src/DebugPrint.o
+DebugPrint::dbgPrintln(unsigned int)              ./src/DebugPrint.o
+DebugPrint::ready()                               ./src/DebugPrint.o
+DebugPrint::~DebugPrint()                         ./src/DebugPrint.o
+DebugPrint::~DebugPrint()                         ./src/DebugPrint.o
+DebugPrint::~DebugPrint()                         ./src/DebugPrint.o
+HardwareSerial::HardwareSerial(ring_buffer*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char) E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(HardwareSerial.o)
+HardwareSerial::HardwareSerial(ring_buffer*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char) E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(HardwareSerial.o)
+HardwareSerial::available()                       E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(HardwareSerial.o)
+                                                  ./src/HW/SerialArduino.o
+HardwareSerial::begin(long)                       E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(HardwareSerial.o)
+                                                  ./src/HW/SerialArduino.o
+HardwareSerial::end()                             E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(HardwareSerial.o)
+HardwareSerial::flush()                           E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(HardwareSerial.o)
+HardwareSerial::peek()                            E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(HardwareSerial.o)
+HardwareSerial::read()                            E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(HardwareSerial.o)
+                                                  ./src/HW/SerialArduino.o
+HardwareSerial::write(unsigned char)              E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(HardwareSerial.o)
+Print::print(String const&)                       E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o)
+Print::print(char const*)                         E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o)
+                                                  ./src/HW/SerialArduino.o
+Print::print(char, int)                           E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o)
+Print::print(double, int)                         E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o)
+Print::print(int, int)                            E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o)
+                                                  ./src/HW/SerialArduino.o
+Print::print(long, int)                           E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o)
+Print::print(unsigned char, int)                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o)
+Print::print(unsigned int, int)                   E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o)
+Print::print(unsigned long, int)                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o)
+Print::printFloat(double, unsigned char)          E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o)
+Print::printNumber(unsigned long, unsigned char)  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o)
+Print::println()                                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o)
+Print::println(String const&)                     E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o)
+Print::println(char const*)                       E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o)
+                                                  ./src/HW/SerialArduino.o
+Print::println(char, int)                         E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o)
+Print::println(double, int)                       E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o)
+Print::println(int, int)                          E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o)
+                                                  ./src/HW/SerialArduino.o
+Print::println(long, int)                         E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o)
+Print::println(unsigned char, int)                E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o)
+Print::println(unsigned int, int)                 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o)
+Print::println(unsigned long, int)                E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o)
+Print::write(char const*)                         E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o)
+                                                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(HardwareSerial.o)
+Print::write(unsigned char const*, unsigned int)  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o)
+                                                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(HardwareSerial.o)
+Serial                                            E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(HardwareSerial.o)
+                                                  ./src/HW/SerialArduino.o
+Serial1                                           E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(HardwareSerial.o)
+Serial2                                           E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(HardwareSerial.o)
+Serial3                                           E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(HardwareSerial.o)
+SerialArduino::SerialArduino()                    ./src/HW/SerialArduino.o
+SerialArduino::SerialArduino()                    ./src/HW/SerialArduino.o
+SerialArduino::SerialArduino(int)                 ./src/HW/SerialArduino.o
+                                                  ./src/DebugPrint.o
+                                                  ./src/net/WifiComunication.o
+SerialArduino::SerialArduino(int)                 ./src/HW/SerialArduino.o
+SerialArduino::dbgPrint(char*)                    ./src/HW/SerialArduino.o
+                                                  ./src/DebugPrint.o
+SerialArduino::dbgPrint(int)                      ./src/HW/SerialArduino.o
+                                                  ./src/DebugPrint.o
+SerialArduino::dbgPrintln(char*)                  ./src/HW/SerialArduino.o
+                                                  ./src/DebugPrint.o
+SerialArduino::dbgPrintln(int)                    ./src/HW/SerialArduino.o
+                                                  ./src/DebugPrint.o
+SerialArduino::init(int)                          ./src/HW/SerialArduino.o
+SerialArduino::read()                             ./src/HW/SerialArduino.o
+                                                  ./src/net/WifiComunication.o
+SerialArduino::ready()                            ./src/HW/SerialArduino.o
+                                                  ./src/DebugPrint.o
+                                                  ./src/net/WifiComunication.o
+SerialArduino::~SerialArduino()                   ./src/HW/SerialArduino.o
+                                                  ./src/DebugPrint.o
+                                                  ./src/net/WifiComunication.o
+SerialArduino::~SerialArduino()                   ./src/HW/SerialArduino.o
+SerialArduino::~SerialArduino()                   ./src/HW/SerialArduino.o
+String::String(String const&)                     E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+String::String(String const&)                     E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+String::String(char const*)                       E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+String::String(char const*)                       E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+String::String(char)                              E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+String::String(char)                              E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+String::String(int, int)                          E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+String::String(int, int)                          E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+String::String(long, int)                         E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+String::String(long, int)                         E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+String::String(unsigned char)                     E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+String::String(unsigned char)                     E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+String::String(unsigned int, int)                 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+String::String(unsigned int, int)                 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+String::String(unsigned long, int)                E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+String::String(unsigned long, int)                E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+String::charAt(unsigned int) const                E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+String::compareTo(String const&) const            E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+String::concat(String const&)                     E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+String::endsWith(String const&) const             E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+String::equals(String const&) const               E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+String::equalsIgnoreCase(String const&) const     E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+String::getBuffer(unsigned int)                   E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+String::getBytes(unsigned char*, unsigned int)    E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+String::indexOf(String const&) const              E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+String::indexOf(String const&, unsigned int) const E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+String::indexOf(char) const                       E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+String::indexOf(char, unsigned int) const         E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+String::lastIndexOf(String const&) const          E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+String::lastIndexOf(String const&, unsigned int) const E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+String::lastIndexOf(char) const                   E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+String::lastIndexOf(char, unsigned int) const     E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+String::operator!=(String const&) const           E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+String::operator+=(String const&)                 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+String::operator<(String const&) const            E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+String::operator<=(String const&) const           E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+String::operator=(String const&)                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+String::operator==(String const&) const           E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+String::operator>(String const&) const            E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+String::operator>=(String const&) const           E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+String::operator[](unsigned int)                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+String::operator[](unsigned int) const            E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+                                                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o)
+String::replace(String const&, String const&)     E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+String::replace(char, char)                       E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+String::setCharAt(unsigned int, char)             E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+String::startsWith(String const&) const           E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+String::startsWith(String const&, unsigned int) const E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+String::substring(unsigned int) const             E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+String::substring(unsigned int, unsigned int) const E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+String::toCharArray(char*, unsigned int)          E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+String::toInt()                                   E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+String::toLowerCase() const                       E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+String::toUpperCase() const                       E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+String::trim() const                              E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+String::~String()                                 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+WifiComunication::WifiComunication(int)           ./src/net/WifiComunication.o
+                                                  ./src/main.o
+WifiComunication::WifiComunication(int)           ./src/net/WifiComunication.o
+WifiComunication::read()                          ./src/net/WifiComunication.o
+                                                  ./src/main.o
+WifiComunication::ready()                         ./src/net/WifiComunication.o
+                                                  ./src/main.o
+WifiComunication::~WifiComunication()             ./src/net/WifiComunication.o
+WifiComunication::~WifiComunication()             ./src/net/WifiComunication.o
+WifiComunication::~WifiComunication()             ./src/net/WifiComunication.o
+__addsf3                                          e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_addsub_sf.o)
+                                                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o)
+__bad_interrupt                                   e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+__brkval                                          e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(realloc.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(malloc.o)
+__bss_end                                         e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_clear_bss.o)
+__bss_start                                       e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_clear_bss.o)
+__clz_tab                                         e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_clz.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_clzsi2.o)
+__clzsi2                                          e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_clzsi2.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_usi_to_sf.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_si_to_sf.o)
+__ctors_end                                       e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_ctors.o)
+__ctors_start                                     e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_ctors.o)
+__ctype_isfalse                                   e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(cty_isfalse.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(isspace.o)
+__ctype_istrue                                    e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(cty_isfalse.o)
+__cxa_guard_abort(long long*)                     ./src/memory.o
+__cxa_guard_acquire(long long*)                   ./src/memory.o
+__cxa_guard_release(long long*)                   ./src/memory.o
+__cxa_pure_virtual                                E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o)
+                                                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(HardwareSerial.o)
+__data_end                                        e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+__data_load_start                                 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+__data_start                                      e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+__divmodsi4                                       e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_divmodsi4.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(random.o)
+                                                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WMath.o)
+__divsf3                                          e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_div_sf.o)
+                                                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o)
+__do_clear_bss                                    e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_clear_bss.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(realloc.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(random.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(malloc.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_clz.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_fpcmp_parts_sf.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_unpack_sf.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_pack_sf.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_clzsi2.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_usi_to_sf.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_thenan_sf.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_sf_to_si.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_si_to_sf.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_lt_sf.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_ge_sf.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_div_sf.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_mul_sf.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_addsub_sf.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_fixunssfsi.o)
+                                                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(pins_arduino.o)
+                                                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(wiring_digital.o)
+                                                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(wiring_analog.o)
+                                                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(wiring.o)
+                                                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+                                                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WMath.o)
+                                                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o)
+                                                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(HardwareSerial.o)
+                                                  ./src/memory.o
+                                                  ./src/main.o
+                                                  ./src/DebugPrint.o
+                                                  ./src/HW/SerialArduino.o
+                                                  ./src/HW/Arduino.o
+                                                  ./src/net/WifiComunication.o
+__do_copy_data                                    e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(realloc.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(random.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(malloc.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_clz.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_fpcmp_parts_sf.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_unpack_sf.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_pack_sf.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_clzsi2.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_usi_to_sf.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_thenan_sf.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_sf_to_si.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_si_to_sf.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_lt_sf.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_ge_sf.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_div_sf.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_mul_sf.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_addsub_sf.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_fixunssfsi.o)
+                                                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(pins_arduino.o)
+                                                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(wiring_digital.o)
+                                                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(wiring_analog.o)
+                                                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(wiring.o)
+                                                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+                                                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WMath.o)
+                                                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o)
+                                                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(HardwareSerial.o)
+                                                  ./src/memory.o
+                                                  ./src/main.o
+                                                  ./src/DebugPrint.o
+                                                  ./src/HW/SerialArduino.o
+                                                  ./src/HW/Arduino.o
+                                                  ./src/net/WifiComunication.o
+__do_global_ctors                                 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_ctors.o)
+                                                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(HardwareSerial.o)
+__epilogue_restores__                             e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_epilogue.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(realloc.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(random.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_usi_to_sf.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_sf_to_si.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_si_to_sf.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_lt_sf.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_ge_sf.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_div_sf.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_mul_sf.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_addsub_sf.o)
+__fixsfsi                                         e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_sf_to_si.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_fixunssfsi.o)
+                                                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o)
+__fixunssfsi                                      e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_fixunssfsi.o)
+                                                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o)
+__floatsisf                                       e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_si_to_sf.o)
+                                                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o)
+__floatunsisf                                     e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_usi_to_sf.o)
+                                                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o)
+__flp                                             e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(realloc.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(malloc.o)
+__fpcmp_parts_f                                   e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_fpcmp_parts_sf.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_lt_sf.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_ge_sf.o)
+__gesf2                                           e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_ge_sf.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_fixunssfsi.o)
+__heap_end                                        e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(malloc.o)
+__heap_start                                      e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(malloc.o)
+__init                                            e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+__ltsf2                                           e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_lt_sf.o)
+                                                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o)
+__malloc_heap_end                                 e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(malloc.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(realloc.o)
+__malloc_heap_start                               e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(malloc.o)
+__malloc_margin                                   e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(malloc.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(realloc.o)
+__mulsf3                                          e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_mul_sf.o)
+                                                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o)
+__mulsi3                                          e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_mulsi3.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(random.o)
+                                                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WMath.o)
+__mulsi_const_10                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(mulsi10.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(atol.o)
+__pack_f                                          e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_pack_sf.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_usi_to_sf.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_si_to_sf.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_div_sf.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_mul_sf.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_addsub_sf.o)
+__prologue_saves__                                e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_prologue.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(realloc.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(random.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_usi_to_sf.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_sf_to_si.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_si_to_sf.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_lt_sf.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_ge_sf.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_div_sf.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_mul_sf.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_addsub_sf.o)
+__stack                                           e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+__subsf3                                          e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_addsub_sf.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_fixunssfsi.o)
+                                                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o)
+__tablejump2__                                    e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_tablejump.o)
+__tablejump__                                     e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_tablejump.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_ctors.o)
+__thenan_sf                                       e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_thenan_sf.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_div_sf.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_mul_sf.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_addsub_sf.o)
+__udivmodhi4                                      e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_udivmodhi4.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(itoa.o)
+__udivmodsi4                                      e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_udivmodsi4.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(ultoa.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(ltoa.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_divmodsi4.o)
+                                                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o)
+                                                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(HardwareSerial.o)
+__unpack_f                                        e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_unpack_sf.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_sf_to_si.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_lt_sf.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_ge_sf.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_div_sf.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_mul_sf.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_addsub_sf.o)
+__vector_1                                        e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+__vector_10                                       e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+__vector_11                                       e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+__vector_12                                       e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+__vector_13                                       e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+__vector_14                                       e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+__vector_15                                       e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+__vector_16                                       e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+__vector_17                                       e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+__vector_18                                       e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+__vector_19                                       e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+__vector_2                                        e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+__vector_20                                       e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+__vector_21                                       e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+__vector_22                                       e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+__vector_23                                       E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(wiring.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+__vector_24                                       e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+__vector_25                                       E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(HardwareSerial.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+__vector_26                                       e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+__vector_27                                       e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+__vector_28                                       e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+__vector_29                                       e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+__vector_3                                        e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+__vector_30                                       e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+__vector_31                                       e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+__vector_32                                       e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+__vector_33                                       e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+__vector_34                                       e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+__vector_35                                       e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+__vector_36                                       E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(HardwareSerial.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+__vector_37                                       e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+__vector_38                                       e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+__vector_39                                       e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+__vector_4                                        e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+__vector_40                                       e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+__vector_41                                       e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+__vector_42                                       e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+__vector_43                                       e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+__vector_44                                       e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+__vector_45                                       e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+__vector_46                                       e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+__vector_47                                       e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+__vector_48                                       e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+__vector_49                                       e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+__vector_5                                        e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+__vector_50                                       e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+__vector_51                                       E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(HardwareSerial.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+__vector_52                                       e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+__vector_53                                       e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+__vector_54                                       E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(HardwareSerial.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+__vector_55                                       e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+__vector_56                                       e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+__vector_6                                        e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+__vector_7                                        e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+__vector_8                                        e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+__vector_9                                        e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+__vector_default                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+__vectors                                         e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+_exit                                             e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_exit.o)
+analogRead                                        E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(wiring_analog.o)
+                                                  ./src/HW/Arduino.o
+analogReference                                   E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(wiring_analog.o)
+analogWrite                                       E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(wiring_analog.o)
+                                                  ./src/HW/Arduino.o
+analog_reference                                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(wiring_analog.o)
+atol                                              e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(atol.o)
+                                                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+createMsg()                                       ./src/main.o
+data_ascii                                        ./src/main.o
+delay                                             E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(wiring.o)
+                                                  ./src/HW/SerialArduino.o
+                                                  ./src/HW/Arduino.o
+delayMicroseconds                                 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(wiring.o)
+digitalRead                                       E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(wiring_digital.o)
+digitalWrite                                      E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(wiring_digital.o)
+                                                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(wiring_analog.o)
+                                                  ./src/main.o
+digital_pin_to_bit_mask_PGM                       E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(pins_arduino.o)
+                                                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(wiring_digital.o)
+digital_pin_to_port_PGM                           E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(pins_arduino.o)
+                                                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(wiring_digital.o)
+digital_pin_to_timer_PGM                          E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(pins_arduino.o)
+                                                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(wiring_digital.o)
+                                                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(wiring_analog.o)
+displayNum(unsigned char, int)                    ./src/main.o
+exit                                              e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/avr6\libgcc.a(_exit.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+free                                              e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(malloc.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(realloc.o)
+                                                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+                                                  ./src/memory.o
+in                                                ./src/main.o
+init                                              E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(wiring.o)
+                                                  ./src/main.o
+isspace                                           e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(isspace.o)
+                                                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+itoa                                              e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(itoa.o)
+                                                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+loop                                              ./src/main.o
+ltoa                                              e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(ltoa.o)
+                                                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+main                                              ./src/main.o
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6/crtm2560.o
+makeWord(unsigned char, unsigned char)            E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WMath.o)
+makeWord(unsigned int)                            E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WMath.o)
+malloc                                            e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(malloc.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(realloc.o)
+                                                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+                                                  ./src/memory.o
+map(long, long, long, long, long)                 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WMath.o)
+                                                  ./src/HW/Arduino.o
+memcpy                                            e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(memcpy.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(realloc.o)
+micros                                            E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(wiring.o)
+millis                                            E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(wiring.o)
+msgLen                                            ./src/main.o
+operator delete(void*)                            ./src/memory.o
+                                                  ./src/DebugPrint.o
+                                                  ./src/HW/SerialArduino.o
+                                                  ./src/HW/Arduino.o
+                                                  ./src/net/WifiComunication.o
+operator delete[](void*)                          ./src/memory.o
+operator new(unsigned int)                        ./src/memory.o
+                                                  ./src/main.o
+operator new[](unsigned int)                      ./src/memory.o
+out                                               ./src/main.o
+outStr                                            ./src/main.o
+pinMode                                           E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(wiring_digital.o)
+                                                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(wiring_analog.o)
+                                                  ./src/main.o
+                                                  ./src/HW/Arduino.o
+port_to_input_PGM                                 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(pins_arduino.o)
+                                                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(wiring_digital.o)
+port_to_mode_PGM                                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(pins_arduino.o)
+                                                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(wiring_digital.o)
+port_to_output_PGM                                E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(pins_arduino.o)
+                                                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(wiring_digital.o)
+random                                            e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(random.o)
+                                                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WMath.o)
+random(long)                                      E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WMath.o)
+random(long, long)                                E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WMath.o)
+randomSeed(unsigned int)                          E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WMath.o)
+random_r                                          e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(random.o)
+realloc                                           e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(realloc.o)
+                                                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+rx_buffer                                         E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(HardwareSerial.o)
+rx_buffer1                                        E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(HardwareSerial.o)
+rx_buffer2                                        E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(HardwareSerial.o)
+rx_buffer3                                        E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(HardwareSerial.o)
+setup                                             ./src/main.o
+srandom                                           e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(random.o)
+                                                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WMath.o)
+strcat                                            e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(strcat.o)
+                                                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+strchr                                            e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(strchr.o)
+                                                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+strcmp                                            e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(strcmp.o)
+                                                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+strcpy                                            e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(strcpy.o)
+                                                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+strncmp                                           e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(strncmp.o)
+                                                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+strncpy                                           e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(strncpy.o)
+                                                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+strrchr                                           e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(strrchr.o)
+                                                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+strrev                                            e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(strrev.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(ultoa.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(ltoa.o)
+                                                  e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(itoa.o)
+strstr                                            e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(strstr.o)
+                                                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+timer0_millis                                     E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(wiring.o)
+timer0_overflow_count                             E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(wiring.o)
+tolower                                           e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(tolower.o)
+                                                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+toupper                                           e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(toupper.o)
+                                                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+ultoa                                             e:/win/hw/arduino-0022/hardware/tools/avr/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr6\libc.a(ultoa.o)
+                                                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(WString.o)
+vtable for Arduino                                ./src/HW/Arduino.o
+vtable for DebugPrint                             ./src/DebugPrint.o
+vtable for HardwareSerial                         E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(HardwareSerial.o)
+vtable for Print                                  E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(Print.o)
+vtable for SerialArduino                          ./src/HW/SerialArduino.o
+vtable for Stream                                 E:\Win\hw\arduino-0022\libCore\libArduinoMegaCore.a(HardwareSerial.o)
+vtable for WifiComunication                       ./src/net/WifiComunication.o
